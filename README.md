@@ -444,6 +444,7 @@ ls .gz
 
 gunzip backup.tar.gz
 ## OUTPUT
+<img width="889" height="271" alt="Screenshot 2026-02-09 080800" src="https://github.com/user-attachments/assets/b2aac6c8-bef3-463a-8a95-5537c38487e5" />
 
  
 # Shell Script
@@ -454,6 +455,7 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
+<img width="978" height="407" alt="Screenshot 2026-02-09 081953" src="https://github.com/user-attachments/assets/b8a58695-22f8-4fd9-851b-d80436098fe9" />
 
  
 cat << stop > herecheck.txt
@@ -985,6 +987,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="782" height="300" alt="Screenshot 2026-02-09 081754" src="https://github.com/user-attachments/assets/d18bdd56-fa9f-4dec-886d-3d0a55e01487" />
 
 $ chmod 755 forbreak.sh
  
